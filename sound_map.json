@@ -1,0 +1,18 @@
+{
+ "_説明": "効果音の種類 → 見本（委託の編集者さん）から切り出した音のファイル（素材集の se/ の中）と大きさ（声のピーク基準 dB）。sozai2 が揃ったら file をそちらの名前に直すだけでよい。順位 rank は小さいほど優先（近くに鳴る音を間引くとき残る）",
+ "telop":         {"file": "telop_b.wav", "db": -12, "rank": 4, "use": "テロップ・座布団の文字が出る"},
+ "pon":           {"file": "pon_b.wav", "db": -12, "rank": 3, "use": "人物・イラスト・札が出る"},
+ "pon_hi":        {"file": "pon_hi.wav", "db": -12, "rank": 2, "use": "×・問いの札・短い強調"},
+ "don":           {"file": "don.wav", "db": -7, "rank": 1, "use": "言い切りの大きな斜体"},
+ "don_long":      {"file": "don_long.wav", "db": -6, "rank": 1, "use": "言い切り・余韻つき"},
+ "kira":          {"file": "kira_b.wav", "db": -11, "rank": 1, "use": "金の数字・実績"},
+ "kira_hi":       {"file": "kira_hi.wav", "db": -12, "rank": 2, "use": "答え・チェック・マーカー"},
+ "whoosh":        {"file": "whoosh.wav", "db": -12, "rank": 0, "use": "場面の丸ごと転換"},
+ "kokuchi":       {"file": "kokuchi.wav", "db": -4, "rank": 0, "use": "重大告知への切り替え"},
+ "kokuchi_title": {"file": "kokuchi_title.wav", "db": -8, "rank": 0, "use": "告知の企画名・特典名"},
+ "kokuchi_line":  {"file": "kokuchi_line.wav", "db": -13, "rank": 2, "use": "暗い地で白い文が替わる"},
+ "gentei":        {"file": "gentei.wav", "db": -8, "rank": 1, "use": "赤く光る限定・無料"},
+ "cta":           {"file": "cta.wav", "db": -8, "rank": 0, "use": "LINE の行動の画面"},
+ "shime":         {"file": "shime.wav", "db": -9, "rank": 0, "use": "締めの画面へ"},
+ "fukidashi":     {"file": "fukidashi.wav", "db": -12, "rank": 2, "use": "吹き出しが出る"}
+}
